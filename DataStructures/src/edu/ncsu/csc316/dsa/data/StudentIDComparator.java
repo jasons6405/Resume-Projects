@@ -1,0 +1,21 @@
+package edu.ncsu.csc316.dsa.data;
+
+import java.util.Comparator;
+
+/**
+ * Comparator to compare students based on id number
+ * 
+ * @author Dr. King
+ * @author Jason Stout
+ */
+public class StudentIDComparator implements Comparator<Student> {
+
+	/**
+	 * Compares students based on id number in ascending order
+	 */
+	@Override
+	public int compare(Student one, Student two) {
+		return Integer.compare(one.getId(), two.getId());
+	}
+
+}

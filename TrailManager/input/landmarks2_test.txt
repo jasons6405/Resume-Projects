@@ -1,0 +1,9 @@
+LANDMARK_ID,DESCRIPTION,TYPE
+L01,Main Gate,Entrance
+L02,Lake View,Overlook
+L03,Picnic Area,Facility
+L04,Visitor Center,Information
+L05,Waterfall,Natural
+L06,Bird Sanctuary,Wildlife
+L07,Hiking Start,Trailhead
+L08,Emergency Station,FirstAid

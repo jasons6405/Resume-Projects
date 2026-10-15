@@ -1,0 +1,9 @@
+LANDMARK_ID,DESCRIPTION,TYPE
+L01,North Entrance,Entrance
+L02,South Entrance,Entrance
+L03,Forest Trail,Trail
+L04,Mountain View,Overlook
+L05,Lake Side,Facility
+L06,Island Dock,Transport
+L07,Wilderness Camp,Campsite
+L08,Emergency Hut,FirstAid

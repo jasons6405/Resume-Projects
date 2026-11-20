@@ -14,3 +14,7 @@ Our proposed solution for the report was to use computer vision to blur faces an
 The rlc.S file contains a project written for my Computer Organization & Assembly class.
 The project is written using Assembly language, and implements run-length compression on dynamic memory buffers.
 The project was entirely written by me.
+
+The Cybersecurity_Homeworks folder contains a series of four homework assignments completed in one of my cybersecurity topics classes. 
+These homeworks showcase my experience researching and learning about various cybersecurity-related organizations, as well as working with various cyber-related tools.
+A wide variety of topics were covered in this class, including network security, assets, threats and threat models, attacks, protocols, risk management, controls, and many more.
